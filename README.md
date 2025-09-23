@@ -22,13 +22,10 @@
 
 ###
 
-<h3 align="left">🔗 Connect with Me</h3>
-
-<p align="left">
-💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohamed-ibrahim-282193353/" target="_blank">Mohammed Ibrahim</a><br>
-📧 <strong>Email:</strong> <a href="mailto:mohammedhamad.dev@gmail.com">mohammedhamad.dev@gmail.com</a><br>
-📱 <strong>WhatsApp:</strong> <a href="https://wa.me/201010156926" target="_blank">Chat on WhatsApp</a>
-</p>
+### <h3 align="left">🔗 Connect with Me</h3>
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-ibrahim-282193353/)  
+- 📧 [Email](mailto:mohammedhamad.dev@gmail.com)  
+- 📱 [WhatsApp](https://wa.me/201010156926)  
 
 ###
 
@@ -51,8 +48,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -67,8 +62,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -78,23 +71,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-    <!-- State Management -->
-  <img src="https://img.shields.io/badge/Bloc-40C4FF?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="Bloc logo" />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Provider-009688?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="Provider logo" />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/GetX-DD2C00?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="GetX logo" />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Riverpod-673AB7?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="Riverpod logo" />
-  <img width="12" />
 </div>
+
+#### <h3 align="left">⚡ State Management</h3>
+![Bloc](https://img.shields.io/badge/Bloc-40C4FF?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-009688?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-DD2C00?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-673AB7?style=for-the-badge&logo=flutter&logoColor=white)
 
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-dev-404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-dev-404&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-dev-404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=mohamed-dev-404&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=mohamed-dev-404&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
