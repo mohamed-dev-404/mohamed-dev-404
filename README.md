@@ -1,13 +1,17 @@
-<h2 align="center">👋 Hi, I'm Mohammed Ibrahim</h2>
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=10&color=40C4FF&width=435&lines=Hi,+I'm+Mohammed+Ibrahim+👋;Flutter+Developer+💙;Always+Learning+%26+Building+🚀"/>
+</h1>
 
-<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3AxNnB2dnkxeG1kZHhzOWFsbTRsemF3YXVrcHZpdzR2c3k1OXh3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JZ3sDHgd48Dao/giphy.gif"  />
+
+<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFlM2Mzd2RzZXBzaHhzb3dsbzYyMjByMW5yaGV3MWw0czhycmd6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif"  />
 
 ###
 
 <h3 align="left">🧑‍💻 About Me</h3>
 
+#### 🚀 A passionate Flutter Developer from Egypt 🇪🇬
+
 <p align="left">
-🚀 A passionate Flutter Developer from Egypt 🇪🇬<br><br>
 🛠️ Cross-platform Flutter apps with clean, maintainable code.<br>
 📐 Strong focus on Clean Architecture & SOLID principles.<br>
 🎯 Applying modern design patterns in real projects.<br>
