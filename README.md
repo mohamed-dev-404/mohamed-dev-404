@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=10&color=40C4FF&width=435&lines=Hi,+I'm+Mohammed+Ibrahim+👋;Flutter+Developer+💙;Always+Learning+%26+Building+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=10&color=40C4FF&width=435&lines=Hi,+I'm+Mohammed+Ibrahim+👋;Flutter+Developer+💙"/>
 </h1>
 
 
@@ -26,10 +26,11 @@
 
 ###
 
-### <h3 align="left">🔗 Connect with Me</h3>
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-ibrahim-282193353/)  
-- 📧 [Email](mailto:mohammedhamad.dev@gmail.com)  
-- 📱 [WhatsApp](https://wa.me/201010156926)  
+### <h3 align="left">🌐 Connect with Me</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ibrahim-282193353/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedhamad.dev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201010156926)
+
 
 ###
 
@@ -85,12 +86,31 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats</h3>
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-dev-404&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-dev-404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mohamed-dev-404&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=mohamed-dev-404&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-dev-404&radius=16&theme=nord&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=mohamed-dev-404&theme=vue-dark&hide_border=true&cache_seconds=86400"
+        height="150" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mohamed-dev-404&show_icons=true&theme=vue-dark&hide_border=true"
+        height="150"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-dev-404&layout=compact&theme=vue-dark&hide_border=true"
+        height="150"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="3">  
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-dev-404&theme=nord&hide_border=true"/>
+    </td>
+  </tr>
+</table>
+
+
+
+
